@@ -64,7 +64,7 @@ to-do-list-html/
 | Dynamic updates | ✅ | The task list updates immediately as items are added or removed. |
 | Simple styling | ✅ | Basic layout and hover effects make the interface more polished. |
 
-### Flow diagram
+### 🔄Flow diagram
 
 ```mermaid
 flowchart TD
